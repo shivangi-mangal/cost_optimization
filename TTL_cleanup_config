@@ -1,0 +1,4 @@
+{
+  "enabled": true,
+  "defaultTtl": 2592000  // e.g. 30 days after stub upsert
+}
