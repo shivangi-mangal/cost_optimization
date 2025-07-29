@@ -1,0 +1,11 @@
+"indexingPolicy": {
+  "indexingMode": "consistent",
+  "includedPaths": [
+    { "path": "/id/?"},
+    { "path": "/partitionKey/?"},
+    { "path": "/createdAt/?"}
+  ],
+  "excludedPaths": [
+    { "path": "/*"}
+  ]
+}
